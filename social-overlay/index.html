@@ -122,6 +122,10 @@
             background: #35373b url("http://nerdordie.com/wp-content/uploads/2016/03/playstv.png") no-repeat 10px 10px;
         }
 
+        .popup .left .github:before {
+            background: #ffffff url("https://img.icons8.com/fluent/40/000000/github.png") no-repeat 10px 10px;
+        }
+
         .popup .right {
             position: relative;
             height: 60px;
@@ -404,6 +408,14 @@
                 <span data-name="playstvUsername"></span>
             </div>
         </div>
+        <div class="popup github-pop animate-popup" data-box="enableGithub">
+            <div class="left">
+                <span class="github"></span>
+            </div>
+            <div class="right githubUsername">
+                <span data-name="githubUsername"></span>
+            </div>
+        </div>
     </div>
     <script type="text/javascript">
     document.addEventListener("DOMContentLoaded", function() {
@@ -430,7 +442,8 @@
                 deviantartUsername: null,
                 redditUsername: null,
                 gamewispUsername: null,
-                playstvUsername: null
+                playstvUsername: null,
+                githubUsername: "https://github.com/matyo91/djmatyo91"
             },
 
             // Gaming Popup Options
