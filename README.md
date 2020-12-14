@@ -1,3 +1,3 @@
-# djmatyo91
+# DJ Stream
 
-My setup to livestream mixes
+Setup for DJ to stream online
