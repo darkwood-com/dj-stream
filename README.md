@@ -9,3 +9,10 @@
 ## Introduction
 
 Setup for DJ to stream online
+
+## Features
+
+- Logo
+- Social Overlay
+- Countdown
+- Two scenes : 1 before stream, 1 mixing stream
