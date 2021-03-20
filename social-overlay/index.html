@@ -435,11 +435,11 @@
             // Simply change the name in quotes with your name
             social: {
 
-                twitchUsername: "https://www.twitch.tv/djmatyo91",
-                twitterUsername: "https://twitter.com/djmatyo91",
+                twitchUsername: ["https://www.twitch.tv/djmatyo91", "Live"],
+                twitterUsername: ["https://twitter.com/djmatyo91", "News"],
                 facebookUsername: null, // "https://www.facebook.com/djmatyo91",
                 instagramUsername: null,
-                youtubeUsername: null,
+                youtubeUsername: ["https://www.youtube.com/user/djmatyo91", "Replay"],
                 tumblrUsername: null,
                 paypalUsername: null,
                 patreonUsername: null,
@@ -455,8 +455,8 @@
                 redditUsername: null,
                 gamewispUsername: null,
                 playstvUsername: null,
-                githubUsername: "https://github.com/matyo91/dj-stream",
-                soundcloudUsername: "https://soundcloud.com/djmatyo91"
+                githubUsername: ["https://github.com/darkwood-fr/dj-stream", "DJ-Stream"],
+                soundcloudUsername: ["https://soundcloud.com/djmatyo91", "Production"],
             },
 
             // Gaming Popup Options
@@ -470,7 +470,7 @@
         Array.from(document.querySelectorAll(".popup .right span")).forEach(function (el) {
             var name = settings.social[el.dataset.name]
             if(name !== null) {
-                el.innerText = name
+                el.innerText = Array.isArray(name) ? `${name[1]} ${name[0]}` : name
                 el.parentNode.parentNode.classList.add("animate-popup")
             } else {
                 el.parentNode.parentNode.classList.remove("animate-popup")
