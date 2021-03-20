@@ -16,3 +16,7 @@ Setup for DJ to stream online
 - Social Overlay
 - Countdown
 - Two scenes : 1 before stream, 1 mixing stream
+
+## License
+
+_DJ-Stream_ is released under the AGPL License.
