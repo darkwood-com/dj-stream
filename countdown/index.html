@@ -114,8 +114,9 @@
                 hour = minute * 60,
                 day = hour * 24;
 
-            let eventDate = "2021-03-15T21:00:00",
-                countDown = new Date(eventDate).getTime(),
+            // let eventDate = new Date("2021-01-01T21:00:00");
+            let eventDate = new Date(); eventDate.setHours(21, 0, 0); // start today at 21h
+            let countDown = eventDate.getTime(),
                 x = setInterval(function () {
 
                     let now = new Date().getTime(),
