@@ -141,12 +141,18 @@
                 reconnect: true,
                 secure: true
             },
-            channels: ['djmatyo91'],
+            channels: [getParameterByName('channel').toLowerCase() || 'djmatyo91'],
         });
         addListeners();
         client.connect();
     }
 
+    function getParameterByName(name) {
+        name = name.replace(/[\[]/, "\\\[").replace(/[\]]/, "\\\]");
+        var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+            results = regex.exec(location.search);
+        return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+    }
     function addListeners() {
         client.on('connecting', () => {
             showAdminMessage({
