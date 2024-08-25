@@ -1,1 +1,1429 @@
-{"current_program_scene":"Live","current_scene":"Live","current_transition":"Fade","groups":[],"modules":{"auto-scene-switcher":{"active":false,"interval":300,"non_matching_scene":"","switch_if_not_matching":false,"switches":[]},"decklink_captions":{"source":""},"output-timer":{"autoStartRecordTimer":false,"autoStartStreamTimer":false,"pauseRecordTimer":true,"recordTimerHours":0,"recordTimerMinutes":0,"recordTimerSeconds":30,"streamTimerHours":0,"streamTimerMinutes":0,"streamTimerSeconds":30},"scripts-tool":[]},"name":"DJMatyo91","preview_locked":false,"quick_transitions":[{"duration":300,"fade_to_black":false,"hotkeys":[],"id":4,"name":"Cut"},{"duration":300,"fade_to_black":false,"hotkeys":[],"id":5,"name":"Fade"},{"duration":300,"fade_to_black":true,"hotkeys":[],"id":6,"name":"Fade"}],"saved_projectors":[],"scaling_enabled":false,"scaling_level":0,"scaling_off_x":0.0,"scaling_off_y":0.0,"scene_order":[{"name":"Countdown"},{"name":"Live"}],"sources":[{"balance":0.5,"deinterlace_field_order":0,"deinterlace_mode":0,"enabled":true,"flags":0,"hotkeys":{},"id":"av_capture_input","mixers":0,"monitoring_type":0,"muted":false,"name":"Video Capture Device","prev_ver":453115908,"private_settings":{},"push-to-mute":false,"push-to-mute-delay":0,"push-to-talk":false,"push-to-talk-delay":0,"settings":{"device":"EAB7A68FEC2B4487AADFD8A91C1CB782","device_name":"FaceTime HD Camera"},"sync":0,"versioned_id":"av_capture_input","volume":1.0},{"balance":0.5,"deinterlace_field_order":0,"deinterlace_mode":0,"enabled":true,"flags":0,"hotkeys":{"OBSBasic.SelectScene":[],"libobs.hide_scene_item.Countdown banner":[],"libobs.hide_scene_item.DJ Matyo":[],"libobs.hide_scene_item.Logo":[],"libobs.hide_scene_item.Loop":[],"libobs.hide_scene_item.Social":[],"libobs.show_scene_item.Countdown banner":[],"libobs.show_scene_item.DJ Matyo":[],"libobs.show_scene_item.Logo":[],"libobs.show_scene_item.Loop":[],"libobs.show_scene_item.Social":[]},"id":"scene","mixers":0,"monitoring_type":0,"muted":false,"name":"Countdown","prev_ver":453115908,"private_settings":{},"push-to-mute":false,"push-to-mute-delay":0,"push-to-talk":false,"push-to-talk-delay":0,"settings":{"custom_size":false,"id_counter":6,"items":[{"align":5,"blend_type":"normal","bounds":{"x":1.0,"y":1.0},"bounds_align":0,"bounds_type":0,"crop_bottom":0,"crop_left":0,"crop_right":0,"crop_top":0,"group_item_backup":false,"hide_transition":{"duration":0},"id":5,"locked":false,"name":"Loop","pos":{"x":226.5,"y":0.0},"private_settings":{},"rot":0.0,"scale":{"x":3.0562500953674316,"y":3.0555555820465088},"scale_filter":"disable","show_transition":{"duration":0},"visible":true},{"align":5,"blend_type":"normal","bounds":{"x":1.0,"y":1.0},"bounds_align":0,"bounds_type":0,"crop_bottom":0,"crop_left":0,"crop_right":0,"crop_top":0,"group_item_backup":false,"hide_transition":{"duration":0},"id":1,"locked":false,"name":"Countdown banner","pos":{"x":0.0,"y":824.0},"private_settings":{},"rot":0.0,"scale":{"x":1.6000000238418579,"y":1.6000000238418579},"scale_filter":"disable","show_transition":{"duration":0},"visible":true},{"align":5,"blend_type":"normal","bounds":{"x":0.0,"y":0.0},"bounds_align":0,"bounds_type":0,"crop_bottom":0,"crop_left":0,"crop_right":0,"crop_top":0,"group_item_backup":false,"hide_transition":{"duration":0},"id":3,"locked":false,"name":"DJ Matyo","pos":{"x":1677.0,"y":746.0},"private_settings":{},"rot":0.0,"scale":{"x":0.21111111342906952,"y":0.21088434755802155},"scale_filter":"disable","show_transition":{"duration":0},"visible":true},{"align":5,"blend_type":"normal","bounds":{"x":1.0,"y":1.0},"bounds_align":0,"bounds_type":0,"crop_bottom":0,"crop_left":0,"crop_right":0,"crop_top":0,"group_item_backup":false,"hide_transition":{"duration":0},"id":4,"locked":false,"name":"Social","pos":{"x":0.0,"y":976.0},"private_settings":{},"rot":0.0,"scale":{"x":1.7333333492279053,"y":1.7333333492279053},"scale_filter":"disable","show_transition":{"duration":0},"visible":true},{"align":5,"blend_type":"normal","bounds":{"x":1.0,"y":1.0},"bounds_align":0,"bounds_type":0,"crop_bottom":0,"crop_left":0,"crop_right":0,"crop_top":0,"group_item_backup":false,"hide_transition":{"duration":0},"id":2,"locked":false,"name":"Logo","pos":{"x":1664.0,"y":824.0},"private_settings":{},"rot":0.0,"scale":{"x":1.7066667079925537,"y":1.7066667079925537},"scale_filter":"disable","show_transition":{"duration":0},"visible":true}]},"sync":0,"versioned_id":"scene","volume":1.0},{"balance":0.5,"deinterlace_field_order":0,"deinterlace_mode":0,"enabled":true,"flags":0,"hotkeys":{"OBSBasic.SelectScene":[],"libobs.hide_scene_item.Audio Input Capture":[],"libobs.hide_scene_item.Carte Son":[],"libobs.hide_scene_item.DJ Matyo":[],"libobs.hide_scene_item.Logo":[],"libobs.hide_scene_item.NDI™ Source":[],"libobs.hide_scene_item.Social":[],"libobs.hide_scene_item.Video Capture Device":[],"libobs.show_scene_item.Audio Input Capture":[],"libobs.show_scene_item.Carte Son":[],"libobs.show_scene_item.DJ Matyo":[],"libobs.show_scene_item.Logo":[],"libobs.show_scene_item.NDI™ Source":[],"libobs.show_scene_item.Social":[],"libobs.show_scene_item.Video Capture Device":[]},"id":"scene","mixers":0,"monitoring_type":0,"muted":false,"name":"Live","prev_ver":453115908,"private_settings":{},"push-to-mute":false,"push-to-mute-delay":0,"push-to-talk":false,"push-to-talk-delay":0,"settings":{"custom_size":false,"id_counter":10,"items":[{"align":5,"blend_type":"normal","bounds":{"x":0.0,"y":0.0},"bounds_align":0,"bounds_type":0,"crop_bottom":0,"crop_left":0,"crop_right":0,"crop_top":0,"group_item_backup":false,"hide_transition":{"duration":0},"id":6,"locked":false,"name":"NDI™ Source","pos":{"x":-0.0001220703125,"y":0.0},"private_settings":{},"rot":0.0,"scale":{"x":1.0,"y":1.0},"scale_filter":"disable","show_transition":{"duration":0},"visible":true},{"align":5,"blend_type":"normal","bounds":{"x":0.0,"y":0.0},"bounds_align":0,"bounds_type":0,"crop_bottom":0,"crop_left":0,"crop_right":0,"crop_top":0,"group_item_backup":false,"hide_transition":{"duration":0},"id":7,"locked":false,"name":"Video Capture Device","pos":{"x":1451.0,"y":0.0},"private_settings":{},"rot":0.0,"scale":{"x":0.36640626192092896,"y":0.36666667461395264},"scale_filter":"disable","show_transition":{"duration":0},"visible":true},{"align":5,"blend_type":"normal","bounds":{"x":0.0,"y":0.0},"bounds_align":0,"bounds_type":0,"crop_bottom":0,"crop_left":0,"crop_right":0,"crop_top":0,"group_item_backup":false,"hide_transition":{"duration":0},"id":4,"locked":false,"name":"Audio Input Capture","pos":{"x":0.0,"y":0.0},"private_settings":{},"rot":0.0,"scale":{"x":1.0,"y":1.0},"scale_filter":"disable","show_transition":{"duration":0},"visible":true},{"align":5,"blend_type":"normal","bounds":{"x":0.0,"y":0.0},"bounds_align":0,"bounds_type":0,"crop_bottom":0,"crop_left":0,"crop_right":0,"crop_top":0,"group_item_backup":false,"hide_transition":{"duration":0},"id":5,"locked":false,"name":"Carte Son","pos":{"x":0.0,"y":0.0},"private_settings":{},"rot":0.0,"scale":{"x":1.0,"y":1.0},"scale_filter":"disable","show_transition":{"duration":0},"visible":true},{"align":5,"blend_type":"normal","bounds":{"x":0.0,"y":0.0},"bounds_align":0,"bounds_type":0,"crop_bottom":0,"crop_left":0,"crop_right":0,"crop_top":0,"group_item_backup":false,"hide_transition":{"duration":0},"id":8,"locked":false,"name":"DJ Matyo","pos":{"x":1677.0,"y":746.0},"private_settings":{},"rot":0.0,"scale":{"x":0.21111111342906952,"y":0.21088434755802155},"scale_filter":"disable","show_transition":{"duration":0},"visible":true},{"align":5,"blend_type":"normal","bounds":{"x":1.0,"y":1.0},"bounds_align":0,"bounds_type":0,"crop_bottom":0,"crop_left":0,"crop_right":0,"crop_top":0,"group_item_backup":false,"hide_transition":{"duration":0},"id":9,"locked":false,"name":"Social","pos":{"x":0.0,"y":976.0},"private_settings":{},"rot":0.0,"scale":{"x":1.7333333492279053,"y":1.7333333492279053},"scale_filter":"disable","show_transition":{"duration":0},"visible":true},{"align":5,"blend_type":"normal","bounds":{"x":1.0,"y":1.0},"bounds_align":0,"bounds_type":0,"crop_bottom":0,"crop_left":0,"crop_right":0,"crop_top":0,"group_item_backup":false,"hide_transition":{"duration":0},"id":10,"locked":false,"name":"Logo","pos":{"x":1664.0,"y":824.0},"private_settings":{},"rot":0.0,"scale":{"x":1.7066667079925537,"y":1.7066667079925537},"scale_filter":"disable","show_transition":{"duration":0},"visible":true}]},"sync":0,"versioned_id":"scene","volume":1.0},{"balance":0.5,"deinterlace_field_order":0,"deinterlace_mode":0,"enabled":true,"flags":0,"hotkeys":{"ObsBrowser.Refresh":[],"libobs.mute":[],"libobs.push-to-mute":[],"libobs.push-to-talk":[],"libobs.unmute":[]},"id":"browser_source","mixers":255,"monitoring_type":0,"muted":false,"name":"Countdown banner","prev_ver":453115908,"private_settings":{},"push-to-mute":false,"push-to-mute-delay":0,"push-to-talk":false,"push-to-talk-delay":0,"settings":{"css":"body {\nbackground-color: #FFFFFF;\n}","height":95,"is_local_file":true,"local_file":"/Users/math/Sites/darkwood/dj-stream/overlays/countdown/index.html","width":1040},"sync":0,"versioned_id":"browser_source","volume":1.0},{"balance":0.5,"deinterlace_field_order":0,"deinterlace_mode":0,"enabled":true,"flags":0,"hotkeys":{},"id":"image_source","mixers":0,"monitoring_type":0,"muted":false,"name":"Logo","prev_ver":453115908,"private_settings":{},"push-to-mute":false,"push-to-mute-delay":0,"push-to-talk":false,"push-to-talk-delay":0,"settings":{"file":"/Users/math/Sites/darkwood/dj-stream/medias/cricket.jpg"},"sync":0,"versioned_id":"image_source","volume":1.0},{"balance":0.5,"deinterlace_field_order":0,"deinterlace_mode":0,"enabled":true,"flags":0,"hotkeys":{},"id":"text_ft2_source","mixers":0,"monitoring_type":0,"muted":false,"name":"DJ Matyo","prev_ver":453115908,"private_settings":{},"push-to-mute":false,"push-to-mute-delay":0,"push-to-talk":false,"push-to-talk-delay":0,"settings":{"font":{"face":"Helvetica","flags":0,"size":256,"style":"Regular"},"text":"DJ Matyo"},"sync":0,"versioned_id":"text_ft2_source_v2","volume":1.0},{"balance":0.5,"deinterlace_field_order":0,"deinterlace_mode":0,"enabled":true,"flags":0,"hotkeys":{"ObsBrowser.Refresh":[],"libobs.mute":[],"libobs.push-to-mute":[],"libobs.push-to-talk":[],"libobs.unmute":[]},"id":"browser_source","mixers":255,"monitoring_type":0,"muted":false,"name":"Social","prev_ver":453115908,"private_settings":{},"push-to-mute":false,"push-to-mute-delay":0,"push-to-talk":false,"push-to-talk-delay":0,"settings":{"css":"body { background-color: #FFFFFF; margin: 0px auto; overflow: hidden; }","height":60,"is_local_file":true,"local_file":"/Users/math/Sites/darkwood/dj-stream/overlays/social/index.html","width":960},"sync":0,"versioned_id":"browser_source","volume":1.0},{"balance":0.5,"deinterlace_field_order":0,"deinterlace_mode":0,"enabled":true,"flags":0,"hotkeys":{"MediaSource.Pause":[],"MediaSource.Play":[],"MediaSource.Restart":[],"MediaSource.Stop":[],"libobs.mute":[],"libobs.push-to-mute":[],"libobs.push-to-talk":[],"libobs.unmute":[]},"id":"ffmpeg_source","mixers":255,"monitoring_type":0,"muted":true,"name":"Loop","prev_ver":453115908,"private_settings":{},"push-to-mute":false,"push-to-mute-delay":0,"push-to-talk":false,"push-to-talk-delay":0,"settings":{"local_file":"/Users/math/Sites/darkwood/dj-stream/medias/world.mp4","looping":true},"sync":0,"versioned_id":"ffmpeg_source","volume":1.0},{"balance":0.5,"deinterlace_field_order":0,"deinterlace_mode":0,"enabled":true,"flags":0,"hotkeys":{"libobs.mute":[],"libobs.push-to-mute":[],"libobs.push-to-talk":[],"libobs.unmute":[]},"id":"coreaudio_input_capture","mixers":255,"monitoring_type":0,"muted":false,"name":"Audio Input Capture","prev_ver":453115908,"private_settings":{},"push-to-mute":false,"push-to-mute-delay":0,"push-to-talk":false,"push-to-talk-delay":0,"settings":{"device_id":"AppleUSBAudioEngine:Elgato Systems:Elgato Wave:1:AS31J1A04489:2,1"},"sync":0,"versioned_id":"coreaudio_input_capture","volume":1.0},{"balance":0.5,"deinterlace_field_order":0,"deinterlace_mode":0,"enabled":true,"flags":0,"hotkeys":{"libobs.mute":[],"libobs.push-to-mute":[],"libobs.push-to-talk":[],"libobs.unmute":[]},"id":"coreaudio_input_capture","mixers":255,"monitoring_type":0,"muted":false,"name":"Carte Son","prev_ver":453115908,"private_settings":{},"push-to-mute":false,"push-to-mute-delay":0,"push-to-talk":false,"push-to-talk-delay":0,"settings":{"device_id":"AppleUSBAudioEngine:Burr-Brown from TI              :USB Audio CODEC :1120000:2"},"sync":0,"versioned_id":"coreaudio_input_capture","volume":1.0},{"balance":0.5,"deinterlace_field_order":0,"deinterlace_mode":0,"enabled":true,"flags":0,"hotkeys":{"libobs.mute":[],"libobs.push-to-mute":[],"libobs.push-to-talk":[],"libobs.unmute":[]},"id":"ndi_source","mixers":255,"monitoring_type":0,"muted":true,"name":"NDI™ Source","prev_ver":453115908,"private_settings":{},"push-to-mute":false,"push-to-mute-delay":0,"push-to-talk":false,"push-to-talk-delay":0,"settings":{"ndi_fix_alpha_blending":false,"ndi_source_name":"IPHONE-DE-MATHIEU-LEDRU (NDI HX Camera)"},"sync":0,"versioned_id":"ndi_source","volume":1.0}],"transition_duration":300,"transitions":[]}
+{
+    "current_scene": "Live",
+    "current_program_scene": "Live",
+    "scene_order": [
+        {
+            "name": "Countdown"
+        },
+        {
+            "name": "Live"
+        }
+    ],
+    "name": "DJMatyo91",
+    "groups": [],
+    "quick_transitions": [
+        {
+            "name": "Cut",
+            "duration": 300,
+            "hotkeys": [],
+            "id": 4,
+            "fade_to_black": false
+        },
+        {
+            "name": "Fade",
+            "duration": 300,
+            "hotkeys": [],
+            "id": 5,
+            "fade_to_black": false
+        },
+        {
+            "name": "Fade",
+            "duration": 300,
+            "hotkeys": [],
+            "id": 6,
+            "fade_to_black": true
+        }
+    ],
+    "transitions": [],
+    "saved_projectors": [],
+    "current_transition": "Fade",
+    "transition_duration": 300,
+    "preview_locked": false,
+    "scaling_enabled": false,
+    "scaling_level": 0,
+    "scaling_off_x": 0.0,
+    "scaling_off_y": 0.0,
+    "virtual-camera": {
+        "type2": 3
+    },
+    "modules": {
+        "scripts-tool": [],
+        "output-timer": {
+            "streamTimerHours": 0,
+            "streamTimerMinutes": 0,
+            "streamTimerSeconds": 30,
+            "recordTimerHours": 0,
+            "recordTimerMinutes": 0,
+            "recordTimerSeconds": 30,
+            "autoStartStreamTimer": false,
+            "autoStartRecordTimer": false,
+            "pauseRecordTimer": true
+        },
+        "auto-scene-switcher": {
+            "interval": 300,
+            "non_matching_scene": "",
+            "switch_if_not_matching": false,
+            "active": false,
+            "switches": []
+        }
+    },
+    "resolution": {
+        "x": 1920,
+        "y": 1080
+    },
+    "sources": [
+        {
+            "prev_ver": 503447554,
+            "name": "Cam Text",
+            "uuid": "6f949b9b-293d-4a31-8f9b-3354f853226b",
+            "id": "text_ft2_source",
+            "versioned_id": "text_ft2_source_v2",
+            "settings": {
+                "text": "Cam",
+                "font": {
+                    "face": "Helvetica",
+                    "flags": 0,
+                    "size": 64,
+                    "style": "Regular"
+                }
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {},
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503447554,
+            "name": "Carte Son",
+            "uuid": "233a6c20-85c6-4650-bf28-fbcd5bb99ebe",
+            "id": "coreaudio_input_capture",
+            "versioned_id": "coreaudio_input_capture",
+            "settings": {
+                "device_id": "AppleUSBAudioEngine:Burr-Brown from TI              :USB Audio CODEC :140000:2"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503447554,
+            "name": "Countdown",
+            "uuid": "3f161836-67cd-4b60-84d7-f34e8e3f47a9",
+            "id": "scene",
+            "versioned_id": "scene",
+            "settings": {
+                "custom_size": false,
+                "id_counter": 7,
+                "items": [
+                    {
+                        "name": "Loop",
+                        "source_uuid": "9b3e9b1e-0c08-4aff-90dd-9b1b18841fe5",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 4.0,
+                            "y": 4.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 5,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Countdown banner",
+                        "source_uuid": "2ef4c8f2-3693-47a6-a697-731ededf3b30",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 824.0
+                        },
+                        "scale": {
+                            "x": 1.6000000238418579,
+                            "y": 1.6000000238418579
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 1,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Social Banner",
+                        "source_uuid": "59f3bd1e-2b67-4a45-bad9-21e86dfb55f1",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 976.0
+                        },
+                        "scale": {
+                            "x": 1.7333333492279053,
+                            "y": 1.7333333492279053
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 4,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Logo",
+                        "source_uuid": "64eac0c4-4114-4764-afab-3696e04136b5",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1664.0,
+                            "y": 824.0
+                        },
+                        "scale": {
+                            "x": 1.7066667079925537,
+                            "y": 1.7066667079925537
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 2,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "DJ Matyo",
+                        "source_uuid": "fad37483-82e4-47c0-9227-f76d81afeb9a",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1691.0,
+                            "y": 748.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 7,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    }
+                ]
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.show_scene_item.5": [],
+                "libobs.hide_scene_item.5": [],
+                "libobs.show_scene_item.1": [],
+                "libobs.hide_scene_item.1": [],
+                "libobs.show_scene_item.4": [],
+                "libobs.hide_scene_item.4": [],
+                "libobs.show_scene_item.2": [],
+                "libobs.hide_scene_item.2": [],
+                "libobs.show_scene_item.7": [],
+                "libobs.hide_scene_item.7": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503447554,
+            "name": "Countdown banner",
+            "uuid": "2ef4c8f2-3693-47a6-a697-731ededf3b30",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "is_local_file": true,
+                "local_file": "/Users/math/Sites/darkwood/dj-stream/overlays/countdown/index.html",
+                "width": 1040,
+                "height": 95,
+                "css": "body {\nbackground-color: #FFFFFF;\n}"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503447554,
+            "name": "Discord Sound",
+            "uuid": "8c4ed216-5e18-419e-bdbc-f373807f5dee",
+            "id": "coreaudio_output_capture",
+            "versioned_id": "coreaudio_output_capture",
+            "settings": {
+                "device_id": "BlackHole2ch_UID"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": true,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503447554,
+            "name": "Discord Video",
+            "uuid": "d705baea-86a6-4397-a89d-10afd5c38865",
+            "id": "screen_capture",
+            "versioned_id": "screen_capture",
+            "settings": {
+                "application": "com.obsproject.obs-studio",
+                "type": 1,
+                "window": 9001
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": true,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503447554,
+            "name": "DJ Matyo",
+            "uuid": "fad37483-82e4-47c0-9227-f76d81afeb9a",
+            "id": "text_ft2_source",
+            "versioned_id": "text_ft2_source_v2",
+            "settings": {
+                "text": "DJ Matyo",
+                "font": {
+                    "face": "Helvetica",
+                    "flags": 0,
+                    "size": 48,
+                    "style": "Regular"
+                }
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {},
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503447554,
+            "name": "Event-1",
+            "uuid": "509d3abe-b9e5-4c0c-bc08-453a61bd1f61",
+            "id": "image_source",
+            "versioned_id": "image_source",
+            "settings": {
+                "file": "/Users/math/Mathieu/Darkwood/dj-matyo/dj/2023-02-27 dj-matyo.jpeg"
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {},
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503447554,
+            "name": "Event-2",
+            "uuid": "2376496d-e03f-49bd-9f01-5f608a3b778c",
+            "id": "image_source",
+            "versioned_id": "image_source",
+            "settings": {
+                "file": "/Users/math/Mathieu/Darkwood/dj-matyo/dj/2023-03-06 dj-matyo hardcore xperience.jpg"
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {},
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503447554,
+            "name": "FaceCam",
+            "uuid": "facbe876-af10-4f46-bbec-b4f80575357f",
+            "id": "av_capture_input",
+            "versioned_id": "av_capture_input_v2",
+            "settings": {
+                "device": "EAB7A68F-EC2B-4487-AADF-D8A91C1CB782",
+                "device_name": "FaceTime HD Camera"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503447554,
+            "name": "KissCam Banner",
+            "uuid": "c717e9c2-4ae9-48ba-8781-ca7378fc6f0b",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "is_local_file": true,
+                "local_file": "/Users/math/Sites/darkwood/dj-stream/overlays/kisscam/index.html",
+                "url": "/Users/math/Sites/darkwood/dj-stream/overlays/kisscam/index.html",
+                "width": 988,
+                "height": 60,
+                "css": "body { background-color: #FFFFFF; margin: 0px auto; overflow: hidden; }"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503447554,
+            "name": "Live",
+            "uuid": "77f5e0b6-494d-4adf-80cb-8e4a5aee3c95",
+            "id": "scene",
+            "versioned_id": "scene",
+            "settings": {
+                "custom_size": false,
+                "id_counter": 31,
+                "items": [
+                    {
+                        "name": "Video Capture Device",
+                        "source_uuid": "65dcb8e2-da43-4ecc-846c-a36621806428",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 2,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "bounds": {
+                            "x": 1920.0,
+                            "y": 1080.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 27,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Carte Son",
+                        "source_uuid": "233a6c20-85c6-4650-bf28-fbcd5bb99ebe",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 5,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "DJ Matyo",
+                        "source_uuid": "fad37483-82e4-47c0-9227-f76d81afeb9a",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1712.0,
+                            "y": 807.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 8,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Social Banner",
+                        "source_uuid": "59f3bd1e-2b67-4a45-bad9-21e86dfb55f1",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 976.0
+                        },
+                        "scale": {
+                            "x": 1.7333333492279053,
+                            "y": 1.7333333492279053
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 9,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "KissCam Banner",
+                        "source_uuid": "c717e9c2-4ae9-48ba-8781-ca7378fc6f0b",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 872.0
+                        },
+                        "scale": {
+                            "x": 1.7333333492279053,
+                            "y": 1.7333333492279053
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 19,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Logo",
+                        "source_uuid": "64eac0c4-4114-4764-afab-3696e04136b5",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1712.0,
+                            "y": 872.0
+                        },
+                        "scale": {
+                            "x": 1.3866666555404663,
+                            "y": 1.3866666555404663
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "bounds": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 10,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Live Chat",
+                        "source_uuid": "4a17d4b5-6462-466d-b047-f51339c3b6c4",
+                        "visible": false,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 2.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 18,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Discord Video",
+                        "source_uuid": "d705baea-86a6-4397-a89d-10afd5c38865",
+                        "visible": false,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1423.0,
+                            "y": -64.0
+                        },
+                        "scale": {
+                            "x": 0.43312498927116394,
+                            "y": 0.43333333730697632
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 547,
+                        "crop_top": 42,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 21,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "FaceCam",
+                        "source_uuid": "facbe876-af10-4f46-bbec-b4f80575357f",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1466.0906982421875,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 0.43436294794082642,
+                            "y": 0.43442621827125549
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 506,
+                        "crop_top": 0,
+                        "crop_right": 369,
+                        "crop_bottom": 348,
+                        "id": 31,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Discord Sound",
+                        "source_uuid": "8c4ed216-5e18-419e-bdbc-f373807f5dee",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 25,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Cam Text",
+                        "source_uuid": "6f949b9b-293d-4a31-8f9b-3354f853226b",
+                        "visible": false,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1558.0,
+                            "y": 382.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 28,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Micro",
+                        "source_uuid": "9feeebf9-f542-4662-a92d-9589ee927594",
+                        "visible": true,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "scale": {
+                            "x": 1.0,
+                            "y": 1.0
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 26,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Event-1",
+                        "source_uuid": "509d3abe-b9e5-4c0c-bc08-453a61bd1f61",
+                        "visible": false,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 652.0,
+                            "y": 389.5333251953125
+                        },
+                        "scale": {
+                            "x": 0.39375001192092896,
+                            "y": 0.39444443583488464
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 0,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 29,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    },
+                    {
+                        "name": "Event-2",
+                        "source_uuid": "2376496d-e03f-49bd-9f01-5f608a3b778c",
+                        "visible": false,
+                        "locked": false,
+                        "rot": 0.0,
+                        "pos": {
+                            "x": 1418.0,
+                            "y": 598.0
+                        },
+                        "scale": {
+                            "x": 0.4854932427406311,
+                            "y": 0.4851851761341095
+                        },
+                        "align": 5,
+                        "bounds_type": 0,
+                        "bounds_align": 0,
+                        "bounds_crop": false,
+                        "bounds": {
+                            "x": 0.0,
+                            "y": 0.0
+                        },
+                        "crop_left": 0,
+                        "crop_top": 74,
+                        "crop_right": 0,
+                        "crop_bottom": 0,
+                        "id": 30,
+                        "group_item_backup": false,
+                        "scale_filter": "disable",
+                        "blend_method": "default",
+                        "blend_type": "normal",
+                        "show_transition": {
+                            "duration": 0
+                        },
+                        "hide_transition": {
+                            "duration": 0
+                        },
+                        "private_settings": {}
+                    }
+                ]
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "OBSBasic.SelectScene": [],
+                "libobs.show_scene_item.27": [],
+                "libobs.hide_scene_item.27": [],
+                "libobs.show_scene_item.5": [],
+                "libobs.hide_scene_item.5": [],
+                "libobs.show_scene_item.8": [],
+                "libobs.hide_scene_item.8": [],
+                "libobs.show_scene_item.9": [],
+                "libobs.hide_scene_item.9": [],
+                "libobs.show_scene_item.19": [],
+                "libobs.hide_scene_item.19": [],
+                "libobs.show_scene_item.10": [],
+                "libobs.hide_scene_item.10": [],
+                "libobs.show_scene_item.18": [],
+                "libobs.hide_scene_item.18": [],
+                "libobs.show_scene_item.21": [],
+                "libobs.hide_scene_item.21": [],
+                "libobs.show_scene_item.31": [],
+                "libobs.hide_scene_item.31": [],
+                "libobs.show_scene_item.25": [],
+                "libobs.hide_scene_item.25": [],
+                "libobs.show_scene_item.28": [],
+                "libobs.hide_scene_item.28": [],
+                "libobs.show_scene_item.26": [],
+                "libobs.hide_scene_item.26": [],
+                "libobs.show_scene_item.29": [],
+                "libobs.hide_scene_item.29": [],
+                "libobs.show_scene_item.30": [],
+                "libobs.hide_scene_item.30": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503447554,
+            "name": "Live Chat",
+            "uuid": "4a17d4b5-6462-466d-b047-f51339c3b6c4",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "url": "https://multichat.livepush.io/mcz5Db2yZ5ew5253-",
+                "width": 300,
+                "height": 870
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503447554,
+            "name": "Logo",
+            "uuid": "64eac0c4-4114-4764-afab-3696e04136b5",
+            "id": "image_source",
+            "versioned_id": "image_source",
+            "settings": {
+                "file": "/Users/math/Sites/darkwood/dj-stream/medias/cricket.jpg"
+            },
+            "mixers": 0,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {},
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503447554,
+            "name": "Loop",
+            "uuid": "9b3e9b1e-0c08-4aff-90dd-9b1b18841fe5",
+            "id": "ffmpeg_source",
+            "versioned_id": "ffmpeg_source",
+            "settings": {
+                "local_file": "/Users/math/Sites/darkwood/dj-stream/medias/world.mp4",
+                "looping": true
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": true,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "MediaSource.Restart": [],
+                "MediaSource.Play": [],
+                "MediaSource.Pause": [],
+                "MediaSource.Stop": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503447554,
+            "name": "Micro",
+            "uuid": "9feeebf9-f542-4662-a92d-9589ee927594",
+            "id": "coreaudio_input_capture",
+            "versioned_id": "coreaudio_input_capture",
+            "settings": {
+                "device_id": "BuiltInMicrophoneDevice"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503447554,
+            "name": "Social Banner",
+            "uuid": "59f3bd1e-2b67-4a45-bad9-21e86dfb55f1",
+            "id": "browser_source",
+            "versioned_id": "browser_source",
+            "settings": {
+                "is_local_file": true,
+                "local_file": "/Users/math/Sites/darkwood/dj-stream/overlays/social/index.html",
+                "width": 988,
+                "height": 60,
+                "css": "body { background-color: #FFFFFF; margin: 0px auto; overflow: hidden; }"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": [],
+                "ObsBrowser.Refresh": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        },
+        {
+            "prev_ver": 503447554,
+            "name": "Video Capture Device",
+            "uuid": "65dcb8e2-da43-4ecc-846c-a36621806428",
+            "id": "av_capture_input",
+            "versioned_id": "av_capture_input_v2",
+            "settings": {
+                "device": "B4464F5E-28AB-4AFB-8B1F-A4B300000001",
+                "device_name": "iPhone de Mathieu Ledru Camera",
+                "preset": "AVCaptureSessionPresetHigh"
+            },
+            "mixers": 255,
+            "sync": 0,
+            "flags": 0,
+            "volume": 1.0,
+            "balance": 0.5,
+            "enabled": true,
+            "muted": false,
+            "push-to-mute": false,
+            "push-to-mute-delay": 0,
+            "push-to-talk": false,
+            "push-to-talk-delay": 0,
+            "hotkeys": {
+                "libobs.mute": [],
+                "libobs.unmute": [],
+                "libobs.push-to-mute": [],
+                "libobs.push-to-talk": []
+            },
+            "deinterlace_mode": 0,
+            "deinterlace_field_order": 0,
+            "monitoring_type": 0,
+            "private_settings": {}
+        }
+    ]
+}
